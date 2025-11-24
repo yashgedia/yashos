@@ -1,0 +1,7 @@
+{
+  "name": "YashOS Portfolio",
+  "description": "An interactive Mac OS-style portfolio website for Yash Gedia, featuring a desktop interface, window management, and an AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
